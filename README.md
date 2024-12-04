@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, Nice to Meet You! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+  Olá, prazer em conhecer! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </h1>
 
 <p align="center">   
@@ -8,7 +8,7 @@
     <!--https://dev.to/envoy_/150-badges-for-github-pnk-->
 </p>
 
-## 🏋 About Me
+## 🏋 Sobre mim
 
 ```java
 
@@ -19,8 +19,8 @@ public class Student {
     private String[] languageSpoken;
 
     public Student() {
-        this.name = "Seu Nome"; // Coloque o seu nome aqui
-        this.role = "Informática para Negócios - FATEC Rio Preto";
+        this.name = "Marcos";
+        this.role = "Informática para Negócios";
         this.languageSpoken = new String[] {"pt_BR", "en_US"};
     }
 
